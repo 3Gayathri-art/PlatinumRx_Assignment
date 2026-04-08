@@ -1,0 +1,21 @@
+# PlatinumRx Assignment
+
+## Overview
+This project demonstrates SQL, Excel, and Python skills.
+
+## SQL
+- Hotel & Clinic schema queries
+- Used joins, aggregations, window functions
+
+## Excel
+- VLOOKUP for data mapping
+- Time-based analysis using formulas
+
+## Python
+- Time conversion logic
+- String duplicate removal
+
+## Tools Used
+- MySQL / PostgreSQL
+- Excel / Google Sheets
+- Python 3
